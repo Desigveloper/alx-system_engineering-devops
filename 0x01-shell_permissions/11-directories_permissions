@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -Rd +x /folder
+chmod -Rd a+x *
